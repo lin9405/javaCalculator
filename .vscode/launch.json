@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleCalculator",
+            "request": "launch",
+            "mainClass": "edu.handong.csee.java.hw3.SimpleCalculator"
+        }
+    ]
+}
